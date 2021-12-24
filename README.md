@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-zero01
 - 👀 I’m interested in Design and I also Computer Science.
-- 🌱 I’m currently learning Human-Computer-Interaction(HCI) especially Interface using conductive ink.
+- 🌱 I’m currently learning Human-Computer-Interaction(HCI)
 - 📫 How to reach me code.zero.k01@gmail.com 
 
 <!---
